@@ -1,1 +1,5 @@
 algorithmic-art.md
+save_data/*
+!save_data/.gitkeep
+media/*
+!media/.gitkeep
